@@ -2,7 +2,7 @@
   "name": "VidNFTs",
   "description": "VidNFTs are unique and exclusive creator-signed video autographs.",
   "image": "https://raw.githubusercontent.com/VidNFTs/metadata/main/logo.png",
-  "external_link": "https://vidnfts.com",
+  "external_link": "https://vidnfts.azurewebsites.net",
   "seller_fee_basis_points": 500,
   "fee_recipient": "0x5dcaa37b236578C7f07d17EeaC945ED09910a75e"
 }
